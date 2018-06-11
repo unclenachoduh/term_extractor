@@ -32,7 +32,7 @@ filename = sys.argv[1]
 
 # print(filename)
 
-stop_file = open("stop_words.txt").read().split("\n")
+stop_file = open("src/stop_words.txt").read().split("\n")
 
 stop_words = []
 
@@ -81,9 +81,6 @@ term_vals = []
 
 for t in terms:
 	if t not in stop_words and re.search("[a-zA-Z]", t):
-
-		if t == "ll":
-			print("PROBLEM", t)
 		tcount = terms_d[t][0]
 		dcount = terms_d[t][1]
 
@@ -94,7 +91,7 @@ for t in terms:
 
 		term_vals.append([t, tfidf])
 
-graph = open("plot", "w+")
+graph = open("results/term_scores", "w+")
 
 #### Todo
 # Find a good way to manage the number of terms kept

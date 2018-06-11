@@ -35,9 +35,11 @@ for line in text:
 
 	prev = cur
 
-stem = filename.split(".")
+loc = filename.split("/")
 
-wout = open(stem[0] + "_sents.txt", "w+")
+stem = loc[-1].split(".")
+
+wout = open("txt/" + stem[0] + "_sents.txt", "w+")
 
 for line in sents:
 	wout.write(line + "\n")
