@@ -20,9 +20,16 @@
 # Add common HTML and other code snippets that get into output
 # to stop words list
 
+#### Todo
+# Try stemming words to unify word counts
+
+#### Todo
+# Coreference resolution to ensure consistency
+
 import sys
 import re
 from nltk.tokenize import word_tokenize
+from nltk import ngrams
 import math
 from operator import itemgetter
 # from stemming.porter2 import stem
@@ -30,7 +37,7 @@ from operator import itemgetter
 
 filename = sys.argv[1]
 
-# print(filename)
+
 
 stop_file = open("src/stop_words.txt").read().split("\n")
 
@@ -51,6 +58,7 @@ text = open(filename).read().split("\n")
 terms_d = {} # key = term , value = [tally , doc count]
 terms = [] # list of all terms
 
+document_length = 0
 for line in text:
 	line = re.sub("\’", "\'", line)
 	line = line.lower()
@@ -58,8 +66,19 @@ for line in text:
 	if line != "":
 		words = word_tokenize(line)
 
+# -------------------
+# TODO
+# NGRAMS
+		# bigrams = ngrams(words, 2)
+
+		# print(line)
+		# for b in bigrams:
+		# 	print(b)
+# -------------------
+
 		unq = []
 		for w in words:
+			document_length += 1
 			if w in terms_d:
 				tmp = terms_d[w]
 				tmp[0] += 1
@@ -84,7 +103,7 @@ for t in terms:
 		tcount = terms_d[t][0]
 		dcount = terms_d[t][1]
 
-		tf = tcount / len(terms)
+		tf = tcount / document_length
 		idf = len(text) / (1+ math.log10(dcount))
 		tfidf = tf * idf
 		# print("Term data:", len(terms), t, tcount, dcount, tf, idf, tfidf)
@@ -103,9 +122,17 @@ keep = int(len(terms) * 1 /10) # collect 10% of terms
 count = 1
 
 term_vals = sorted(term_vals, key=itemgetter(1), reverse=True)
+# for x in term_vals:
+# 	count += 1
+# 	if count < keep:
+# 		graph.write(x[0] + "\t" + str(x[1]) + "\n")
+# 	else:
+# 		break
+
+min_count = 5
+
 for x in term_vals:
-	count += 1
-	if count < keep:
+	if terms_d[x[0]][0] > min_count:
 		graph.write(x[0] + "\t" + str(x[1]) + "\n")
 	else:
 		break
