@@ -29,19 +29,19 @@
 import sys
 import re
 from nltk.tokenize import word_tokenize
-from nltk import ngrams
 import math
 from operator import itemgetter
+import ngrams
 # from stemming.porter2 import stem
 # stem(w)
 
 filename = sys.argv[1]
 
-
-
 stop_file = open("src/stop_words.txt").read().split("\n")
 
-stop_words = []
+stop_words = {}
+
+
 
 stop_line = ""
 
@@ -51,7 +51,7 @@ for stop in stop_file:
 
 	for token in stop_token:
 		if token not in stop_words:
-			stop_words.append(token)
+			stop_words[token] = 0
 
 text = open(filename).read().split("\n")
 
@@ -64,17 +64,33 @@ for line in text:
 	line = line.lower()
 
 	if line != "":
-		words = word_tokenize(line)
 
-# -------------------
+		temp_words = ngrams.get_grams(line)
+
+		# words = word_tokenize(line)
+
+		words = []
+		for x in temp_words:
+			for e in x:
+				# print(e)
+				check = False # make sure words count
+
 # TODO
-# NGRAMS
-		# bigrams = ngrams(words, 2)
+# firefox_for
+# firefox_for_android
+# eliminate these dumb repetitions
+				not_garbage = 0
+				garbage = 0
+				for t in e:
+					if t not in stop_words and re.search("[a-zA-Z]", t):
+						check = True
+						not_garbage += 1
+					else:
+						garbage += 1
 
-		# print(line)
-		# for b in bigrams:
-		# 	print(b)
-# -------------------
+				if not_garbage > garbage:
+					words.append("_".join(e))
+					# print("_".join(e))
 
 		unq = []
 		for w in words:
@@ -99,16 +115,15 @@ for line in text:
 term_vals = []
 
 for t in terms:
-	if t not in stop_words and re.search("[a-zA-Z]", t):
-		tcount = terms_d[t][0]
-		dcount = terms_d[t][1]
+	tcount = terms_d[t][0]
+	dcount = terms_d[t][1]
 
-		tf = tcount / document_length
-		idf = len(text) / (1+ math.log10(dcount))
-		tfidf = tf * idf
-		# print("Term data:", len(terms), t, tcount, dcount, tf, idf, tfidf)
+	tf = tcount / document_length
+	idf = len(text) / (1+ math.log10(dcount))
+	tfidf = tf * idf
+	# print("Term data:", len(terms), t, tcount, dcount, tf, idf, tfidf)
 
-		term_vals.append([t, tfidf])
+	term_vals.append([t, tfidf])
 
 graph = open("results/term_scores", "w+")
 
