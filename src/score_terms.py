@@ -144,7 +144,7 @@ term_vals = sorted(term_vals, key=itemgetter(1), reverse=True)
 # 	else:
 # 		break
 
-min_count = 5
+min_count = 6
 
 for x in term_vals:
 	if terms_d[x[0]][0] > min_count:
