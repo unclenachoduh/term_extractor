@@ -6,7 +6,7 @@ This simple extractor selects terms from translation memory exchange files (`.tm
 
 First use the command:
 
-`python3 src/get_strings.py <file_name>`
+`python3 src/get_strings.py <input_tmx> <output_folder>`
 
 from the home directory. This command will output a file with the extracted string from your TMX to the `txt/` folder.
 
@@ -14,7 +14,7 @@ from the home directory. This command will output a file with the extracted stri
 
 Then, use the command:
 
-`python3 src/score_terms.py txt/<file_name>`
+`python3 src/score_terms.py <folder> <output>`
 
 from the home directory. This command will output a file with the highest-scoring terms and their scores in the `results/` folder. 
 
