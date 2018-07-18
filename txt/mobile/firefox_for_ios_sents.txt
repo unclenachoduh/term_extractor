@@ -1,0 +1,792 @@
+-
++
+11.0
+11.0
+11.0
+11.0
+%1$@ %2$@
+%1$@/%2$@
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+1 of %d files
+%1$@ on %2$@
+6.0
+9.0
+9.0
+Aa
+About
+Account Verification Required
+Add
+Add Bookmark
+Added page to Reading List
+Added Search engine!
+Added to Reading List
+Added To Reading List
+Address and Search
+Add Search Engine
+Add Search Engine
+Add Search Provider?
+Add Tab
+Add to Bookmarks
+Add to Bookmarks
+Add to Reading List
+Add to Reading List
+Add to Reading List
+Add to Reading List
+Add to Reading List
+Add to Reading List
+Add to Reading List
+A device has disconnected from Firefox Sync
+Ad trackers
+Advanced
+After 10 minutes
+After 15 minutes
+After 1 hour
+After 1 minute
+After 5 minutes
+Align QR code within frame to scan
+Allow Firefox to use my Photos
+Allows some trackers so websites function properly.
+Allow Third-Party Keyboards
+Always
+Always On
+Always Send
+Amazon
+A modern mobile browser from Mozilla, the non-profit committed to a free and open web.
+Analytic trackers
+An error occured while adding the pass to Wallet. Please try again later.
+Are you sure?
+Are you sure you want to cancel this download?
+Are you sure you want to clear all of your data? This will also close all open tabs.
+Are you sure you want to delete it and its contents?
+A search engine with this title or URL has already been added.
+A username and password are being requested by %@.
+A username and password are being requested by %1$@. The site says: %2$@
+Authentication required
+Available devices:
+Back
+Back
+Back to Themes
+Basic (Recommended)
+Be on the Lookout
+Block Lists
+Block online trackers
+Block Pop-up Windows
+Blocks known trackers. Some websites may not function properly.
+Bookmark
+Bookmark
+Bookmark
+Bookmark
+Bookmark
+Bookmark Added
+Bookmarked
+Bookmarked
+Bookmark Removed
+Bookmarks
+Bookmarks
+Bookmarks
+Bookmarks
+Bookmarks Menu
+Bookmarks Toolbar
+Bookmarks you save will show up here.
+Bookmark This Page
+Bookmark This Page
+Brightness
+Browse like no one’s watching
+Browse multiple Web pages at the same time with tabs.
+Browsing History
+Cache
+Call
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel Download
+Cannot Open Page
+Change Passcode
+Changes color theme.
+Changes font type.
+Choose
+Choose
+Choose Theme
+Clear
+Clear
+Clear
+Clear Everything
+Clear Private Data
+Clear Private Data
+Clear Private Data
+Clear Private Data
+Clear Private Data
+Clear Search
+Close
+Close
+Close
+Close All Tabs
+Close All Tabs
+Close All Tabs
+Close All Tabs
+Close Menu
+Close Menu
+Close Private Tabs
+Close Selected Tab
+Close Tab
+Close Tab
+Closing tab
+computer
+Connect Another Device
+Connect Firefox everywhere you use it.
+Content trackers
+Cookies
+Copy
+Copy Address
+Copy Address
+Copy Address
+Copy Image
+Copy Link
+Copy URL
+Copy URL
+Could not add page to Reading list
+Could not add page to Reading List. Maybe it's already there?
+Could not add page to Reading List. Maybe it’s already there?
+Could not load page.
+Create an account
+Current Homepage
+Customize
+Dark
+%d device(s) connected
+Debug: forget Sync auth state
+Debug: require password
+Debug: require upgrade
+Debug: use stage servers
+Decrease text size
+Default Search Engine
+Default Themes
+Delete
+Delete
+Delete
+Delete
+Delete
+Delete
+Delete from History
+Delete from History
+Deselect All
+Desktop Bookmarks
+Device Name
+Disable additional page dialogs
+Disable for this site
+Disable Night Mode
+Disconnect
+Disconnect Sync
+Disconnect Sync?
+Dismiss
+Display Settings
+Done
+Done
+Done
+Don’t Save
+Don't Send
+Don’t Send
+Double tap and hold to open history
+Download Cancelled
+Downloaded Files
+Downloaded files will show up here.
+Download Failed
+Download Link
+Download Now
+Downloads
+Downloads
+Downloads
+Downloads aren't supported in Firefox yet.
+Do you want to save the password for %1$@ on %2$@?
+Do you want to save the password on %@?
+Do you want to update the password for %1$@ on %2$@?
+Do you want to update the password on %@?
+Do you want to use this web page as your home page?
+%d tab(s) closed
+Easily switch between open pages with tabs.
+Edit
+Enable
+Enable for this site
+Enable Night Mode
+Enable Tracking Protection
+Enter a new passcode
+Enter a passcode
+Enter a webpage
+Enter passcode
+Enter Passcode
+Enter Search Mode
+Enter your password to connect
+Enter your password to connect.
+Facebook
+Face ID and Passcode
+Failed
+Failed
+Failed
+Failed to Add Pass
+Find
+Find in Page
+Find in Page
+Find In Page
+Firefox Account
+Firefox Account
+Firefox and the cloud
+Firefox cannot open the page because it has an invalid address.
+Firefox Downloads
+Firefox Home Page
+Firefox is blocking parts of the page that may track your browsing.
+Firefox is unable to download or display this file. Would you like to open it in another app?
+Firefox needs to reopen for this change to take effect.
+Firefox Sync
+Firefox Sync
+Firefox Sync has connected to %@
+Firefox will place things here that you've discovered on the web so you can find your way back to the great articles, videos, bookmarks and other pages
+Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.
+Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.
+Firefox won't remember any of your history or cookies, but new bookmarks will be saved.
+Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
+Firefox would like to access your Photos
+Folder
+Folder Name
+Forward
+Forward
+General
+General
+Get your open tabs, bookmarks, and passwords from your other devices.
+Get your tabs, bookmarks, and passwords from your other devices.
+Go
+Go
+Go Back
+Go to copied link
+Go to copied link?
+Go to copied URL?
+%@ has been successfully disconnected.
+Help
+Hide
+Hide Images
+Hide Images
+Hide Images
+Highlights
+Highlights
+History
+History
+History
+History
+History
+History will be removed from all your connected devices. This cannot be undone.
+Home
+Homepage
+Homepage
+Homepage Settings
+Immediately
+Incorrect passcode. Try again.
+Incorrect passcode. Try again (Attempts remaining: %d).
+Increase text size
+Introductory slide %1$@ of %2$@
+Intro Tour Carousel
+It may be a misconfiguration or tampering by an attacker. Proceed if you accept the potential risk.
+just now
+Last modified %@
+Last month
+Last synced: %@
+Last week
+Learn More
+Learn More.
+Learn more about how Tracking Protection blocks online trackers that collect your browsing data across multiple websites.
+Licenses
+Light
+Load in Background
+Loading content…
+Loading in Firefox
+Load original page
+Location
+Log in
+Logins
+Logins
+Logins
+Logins will be permanently removed.
+Logins will be removed from all connected devices.
+Log Out
+Log Out?
+Looks like Firefox crashed previously. Would you like to restore your tabs?
+Mail App
+Manage Account and Devices
+Mark as Read
+Mark as Unread
+Maximum attempts reached. Please try again in an hour.
+Maximum attempts reached. Please try again later.
+Menu
+Missing error
+Missing message
+Mobile Bookmarks
+mobile device
+More
+More Info…
+more than a month ago
+more than a week ago
+$(MOZ_BUNDLE_DISPLAY_NAME)
+$(MOZ_BUNDLE_DISPLAY_NAME)
+$(MOZ_BUNDLE_DISPLAY_NAME)
+$(MOZ_BUNDLE_DISPLAY_NAME)
+Mozilla strives to only collect what we need to provide and improve Firefox for everyone.
+$(MOZ_PRODUCT_NAME)
+My Photos
+Navigation Toolbar
+Never
+New Folder
+New passcode must be different than existing code.
+New Private Tab
+New Private Tab
+New Private Tab
+New Private Tab
+New Private Tab opened
+New Tab
+New Tab
+New Tab
+New Tab
+New Tab
+New Tab
+New tab: %1$@: %2$@
+New tab arrived from another device.
+New tab arrived in %@
+New Tab opened
+New version available
+Next in-page result
+Next Page
+Next Page
+Night Mode
+Night Mode
+Night Mode
+Night Mode Off
+Night Mode Off
+No
+No
+No
+No Image Mode
+No Internet Connection
+No logins found
+Normal Browsing Mode
+Normal Browsing Mode
+No tabs
+Not now
+Not Now
+No tracking elements detected on this page.
+Off
+Offer to Open Copied Links
+Offline Website Data
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+Okay
+On
+Only HTTP and HTTPS links can be shared.
+Only when using Tracking Protection
+Oops! Firefox crashed
+Open articles in Reader View by tapping the book icon when it appears in the title bar.
+Open and Fill
+Open Homepage
+Open in…
+Open in Firefox
+Opening %@
+Open in New Private Tab
+Open in New Private Tab
+Open in New Private Tab
+Open In New Private Tab
+Open in New Tab
+Open in New Tab
+Open in New Tab
+Open In New Tab
+Open in Private Mode
+Open in Safari
+Open Last Bookmark
+Open Last Tab
+Open mail links with
+Open New Private Tab
+Open New Tab
+Open New Tab
+Open Selected Tab
+Open Settings
+Open Sync Preferences
+Open Tabs
+Organize
+Otherwise show in the toolbar
+Page Actions
+Page Options Menu
+Pages you have visited recently will show up here.
+Panel Chooser
+Passcode
+Passcode For Logins
+Passcodes didn't match. Try again.
+Passcodes didn’t match. Try again.
+password
+Password
+Paste
+Paste
+Paste and Go
+Paste and Go
+Personalize your default search engine and more in Settings.
+Personalize your Firefox just the way you like in Settings.
+Photos
+Pick up where you left off
+Pin to Top Sites
+Please allow Firefox to access your device's camera in 'Settings' -> 'Privacy' -> 'Camera'.
+Please allow Firefox to access your device’s camera in ‘Settings’ -> ‘Privacy’ -> ‘Camera’.
+Please allow Firefox to access your device’s camera in ’Settings’ -> ’Privacy’ -> ’Camera’.
+Please fill all fields correctly.
+Please open Firefox, go to Settings and sign in to continue.
+Preview
+Preview of %@
+Preview Theme
+Previous in-page result
+Privacy
+Privacy Policy
+Private Browsing
+Private Browsing Mode
+Private Browsing Mode
+Private Mode
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+Quick-search Engines
+Quick-Search Engines
+read
+Reader Mode available
+Reader View
+Reading list
+Reading List
+Reading List
+Recent Bookmarks
+Recently closed
+Recently Closed
+Recommended by Pocket
+Recommended by Pocket
+Re-enter passcode
+Reload
+Reload Page
+Reload Without Tracking Protection
+Reload With Tracking Protection
+Remote Clients
+Remove
+Remove
+Remove
+Remove
+Remove Bookmark
+Remove Bookmark
+Remove Bookmark
+Remove Bookmark
+Remove from Reading List
+Remove history from your Firefox Account?
+Remove page
+Remove page - %@
+Remove Pinned Site
+Reopen Closed Tab
+Request Desktop Site
+Request Desktop Site
+Request Desktop Site
+Request Mobile Site
+Request Mobile Site
+Request Mobile Site
+Require Passcode
+Resend Email
+Reset text size
+Resume
+Retry
+Reveal
+Sans-serif
+Save
+Saved Logins
+Save Image
+Save Login
+Save login %1$@ for %2$@?
+Save Logins
+Save pages to your Reading List by tapping the book plus icon in the Reader View controls.
+Save password for %@?
+Scan QR Code
+Scan QR Code
+Scan QR Code
+Scan QR Code
+%@ search
+Search
+Search
+Search Engine
+Searches for the suggestion
+Search in Firefox
+Searching for something different? Choose another default search engine (or add your own) in Settings.
+Search Input Field
+Search or enter address
+Search Settings
+Search suggestions from %@
+Secure connection
+Select All
+Select Location Bar
+Send
+Send
+Send
+Send a crash report so Mozilla can fix the problem?
+Send Anonymous Usage Data
+Send Crash Reports
+Send Feedback
+Send Report
+Send Tab
+Send Tab
+Send to Device
+Send Usage Data
+Send websites a Do Not Track signal that you don’t want to be tracked
+Sepia
+Serif
+Set
+Set as Homepage
+Set Homepage
+Set Homepage
+Set Passcode
+Set Theme
+Settings
+Settings
+Settings
+Share
+Share
+Share
+Share
+Share
+Share Link
+Share Page With…
+Show All Tabs
+Show Homepage Icon In Menu
+Show Images
+Show Images
+Show Images
+Show Next Tab
+Show Previous Tab
+Show search suggestions
+Show Search Suggestions
+Show Tabs
+Show Tabs
+Show Tour
+Show your Reading List
+Sign in
+Sign in to Firefox
+Sign In to Firefox
+Sign in to get your tabs, bookmarks, and passwords from your other devices.
+Sign in to Sync
+Sign in to view a list of tabs from your other devices.
+Sign in to view open tabs on your other devices.
+Sign Out
+Sign Out
+Sign Out?
+Social trackers
+Start Browsing
+Stop
+Strict
+Support
+Swipe right or left with three fingers to close the tab.
+Switch
+Switch
+Sync Connected
+Sync Disconnected
+Sync Disconnected
+Synced devices
+Synced tabs
+Syncing
+Syncing…
+Syncing…
+Syncing has failed
+Sync is experiencing issues syncing %@
+Sync is offline
+Sync is unavailable
+Sync Now
+Sync Now
+Sync Settings
+Sync your Devices.
+Sync your tabs, bookmarks, passwords and more.
+Sync your tabs, passwords and more.
+Tab %1$@ of %2$@
+Tab received
+Tab received from %@
+Tabs
+Tabs %1$@ to %2$@ of %3$@
+Tabs Tray
+Take Your Web With You
+Tap, hold and move the Firefox icon into your dock for easy access.
+Tap the mask icon to slip into Private Browsing mode.
+Tap to begin
+Thanks for choosing Firefox!
+The data is invalid
+The data is invalid
+The link you are trying to share cannot be shared.
+Theme
+Themes
+The new search engine will appear in the quick search bar.
+The owner of %@ has configured their website improperly. To protect your information from being stolen, Firefox has not connected to this website.
+The page could not be displayed in Reader View.
+There is a new version available of Firefox Aurora. Tap OK to go to the download page.
+There was an error converting the page
+There was a problem accessing tabs from your other devices. Try again in a few moments.
+The search provider could not be added.
+The Settings button is at the beginning of the Tabs Tray.
+The Show Tabs button is next to the Address and Search text field and displays the current number of open tabs.
+The site includes elements that may track your browsing. You have disabled protection.
+This action will clear all of your private data, including history from your synced devices.
+This action will clear all of your private data. It cannot be undone.
+This allows you to save the image to your Camera Roll.
+This Connection is Untrusted
+This device has been successfully disconnected from Firefox Sync.
+This folder isn't empty.
+This folder isn’t empty.
+This lets you save and upload photos.
+This lets you save photos.
+This lets you take and upload photos.
+This lets you take and upload videos.
+this week
+This will open in another application
+Title
+Title
+Today
+today at %@
+Top sites
+Top Sites
+Top Sites
+Top Sites
+Total trackers blocked
+Touch ID and Passcode
+Tracking is the collection of your browsing data across multiple websites.
+Tracking Protection
+Tracking Protection
+Tracking Protection is now off for this site.
+Tracking Protection is now on for this site.
+Trending
+Troubleshoot
+Try again
+Turn off your passcode.
+Turn on search suggestions?
+Turn on tab syncing to view a list of tabs from your other devices.
+Turn Passcode Off
+Turn Passcode On
+Turns private mode on or off
+Twitter
+Undo
+unread
+Unsorted Bookmarks
+Untitled
+Update
+Update
+Update login for %1$@ on %2$@?
+Update password for %@?
+Upgrade Firefox to connect
+Upgrade Firefox to connect.
+URL
+URL
+URL Copied To Clipboard
+URL (Replace Query with %s)
+Use any email app - not just Mail - with Firefox.
+Use Compact Tabs
+Use Copied Link
+Use Current Page
+Use Default
+Use Face ID
+username
+Username
+Use Sync to find the bookmarks, passwords, and other things you save to Firefox on all your devices.
+Use the share sheet to send links from other apps to Firefox.
+Use Touch ID
+Use your fingerprint to access configuring your required passcode interval.
+Use your fingerprint to access Logins now.
+Use your fingerprint to access Private Browsing now.
+Use your fingerprint to disable Touch ID.
+Verify your email address
+Verify your email address.
+Version %1$@ (%2$@)
+View
+View
+View
+View Later
+Visit Again
+Visited
+Visited
+Visit site anyway
+Want to see your tabs from other devices here?
+Warning: we can't confirm your connection to this website is secure.
+Web content
+website
+Websites you've visited recently will show up here.
+Websites you visit may request your location.
+Welcome to Sync
+Welcome to Top Sites
+Welcome to your Reading List
+Well, this is embarrassing.
+When Leaving Private Browsing
+When Opening Firefox
+When you open a New Tab:
+Wikipedia
+Wrong email? Disconnect below to start over.
+Yes
+Yes
+Yes
+yesterday
+Yesterday
+You are not signed in to your Firefox Account.
+You can change this at any time in Settings
+You can choose which list Firefox will use to block Web elements that may track your browsing activity.
+You can choose which list Firefox will use to block Web elements that may track your browsing activity.
+You don't have any other devices connected to this Firefox Account available to sync.
+You don't have any other devices connected to this Firefox Account available to sync.
+You don’t have any other devices connected to this Firefox Account available to sync.
+You don't have any tabs open in Firefox on your other devices.
+You don’t have any tabs open in Firefox on your other devices.
+You need to verify %@. Check your email for the verification link from Firefox.
+Your account needs to be verified.
+Your first sync may take a while
+Your most visited sites will show up here.
+Your Rights
+Your search, your way
+Your tabs from other devices show up here.
+YouTube
+You've got mail… options

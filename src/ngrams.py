@@ -16,11 +16,5 @@ def get_grams(line):
         gram_count += 1
         temp = ngrams(words, gram_count)
         list_of_grams.append(temp)
-    # print(line)
-
-    # for n in list_of_grams:
-        # for w in n:
-        #     print(w)
-        # print(n)
 
     return list_of_grams

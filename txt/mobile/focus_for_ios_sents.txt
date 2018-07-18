@@ -1,0 +1,162 @@
+1.0
+1.0
+%1$@ wants to open %2$@
+3.10
+3.10
+4.0
+About
+Add and manage custom autocomplete URLs.
++ Add Another Search Engine
+Add Another Search Engine
++ Add Custom URL
+Add Custom URL
+Add Search Engine
+Ad trackers
+Analytic trackers
+Apple Handoff is syncing
+Autocomplete
+Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.
+Automatic private browsing.
+Back
+Block ad trackers
+Block analytics trackers
+Blocking other content trackers may break some videos and Web pages.
+Block other content trackers
+Block social trackers
+Block trackers for improved privacy
+Block trackers (or update settings to allow trackers)
+Block Web fonts
+Block Web fonts to reduce page size
+Browse. Erase. Repeat.
+Browse like no one’s watching.
+Call
+Cancel
+Cancel
+Cancel
+Cancel
+Cancel
+Choose whether %@ blocks ad, analytic, social, and other trackers.
+Clear your entire browsing session history, passwords, cookies anytime with a single tap.
+Content trackers
+Copy Image
+Copy Link
+CUSTOM URL LIST
+Custom URLs
+DEFAULT URL LIST
+Disabled
+Disable just for this browsing session if the page isn’t behaving as expected.
+Disable until you close %@ or tap ERASE.
+$(DISPLAY_NAME)
+Done
+Double-check the URL you entered.
+Edit
+Email
+Embedded on sites to track your visits and to display functionality like share buttons
+Enable %@
+Enabled
+Enable to have %@ autocomplete over 450 popular URLs in the address bar.
+Enabling may cause some pages to behave unexpectedly
+ERASE
+Erase to delete cookies as well as search and browsing history
+Example: example.com
+Example: searchengineexample.com/search/?q=%s
+Firefox (Private Browsing)
+Forward
+Get the Firefox App
+Help
+INSTALLED SEARCH ENGINES
+INTEGRATION
+%@ is not enabled.
+%@ is produced by Mozilla. Our mission is to foster a healthy, open Internet.
+I Understand
+Learn more
+Learn more
+Learn more.
+Learn More
+Link you copied: %@
+May break some videos and Web pages
+More
+MOZILLA
+Mozilla strives to collect only what we need to provide and improve %@ for everyone.
+Name to display
+New Custom URL added.
+New Search Engine Added.
+Next
+No Custom URLs to display
+No, Thanks
+OK, Got It!
+OK, GOT IT!
+Open
+Open App Store
+Open in %@
+Open in %@
+Open Maps
+Open Settings
+Open Settings App
+Paste and Go
+Paste or enter search string. If necessary, replace search term with: %s.
+Paste or enter URL
+PERFORMANCE
+Power up your privacy
+PRIVACY
+Privacy Notice
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+$(PRODUCT_NAME)
+%@ puts you in control.
+Reload
+Restore Default Search Engines
+Safari
+Safari
+Save
+Save Image
+SEARCH
+Search and browse right in the app
+Search Engine
+Search Engine
+SEARCH ENGINE
+Search engine name
+Search for %@
+Searching for something different? Choose a different search engine.
+Search or enter address
+Search string to use
+Select Location Bar
+Send anonymous usage data
+Send usage data
+Settings
+Settings
+Share
+Share Link
+Skip
+Social trackers
+Some ads track site visits, even if you don’t click the ads
+Stop
+Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.
+Tap Safari, then select Content Blockers
+This lets you save and upload photos.
+This lets you save and upload photos.
+This lets you save images to your Camera Roll
+This lets you take and upload photos.
+This lets you take and upload videos.
+Trackers blocked
+Tracking Protection
+Tracking Protection off
+Try again
+URL Autocomplete
+URL to add
+Used to collect, analyze and measure activities like tapping and scrolling
+Use it as a private browser:
+Use it as a Safari extension:
+%@ wants to open another App
+%@ wants to open the App Store.
+Websites you visit may request your location.
+What’s New
+“%@” Would Like to Access Your Photos
+You are now leaving %@.
+Your browsing history has been erased.
+Your history is history
+Your Rights
+Your search, your way

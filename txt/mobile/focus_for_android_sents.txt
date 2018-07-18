@@ -1,0 +1,254 @@
+-
+-
+%1$d/%2$d
+%1$d out of %2$d
+1. Go to the search engine homepage.
+%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the GNU General Public License v3, and available here.
+%1$s finished
+%1$s is free and open source software made by Mozilla and other contributors.
+%1$s is made available to you under the terms of the Mozilla Public License and other open source licenses.
+2. Long press the search engine’s search field.
+2. Tap into the search engine’s search field.
+3. Tap %1$s
+3. Tap the magnifying glass icon above the keyboard to add the search engine.
+4. If you don’t see %1$s, try manually adding a search engine.
+4. If you don’t see the magnifying glass, try manually adding a search engine.
+About
+About %1$s
+About %1$s, help
+Add
+Add and manage custom autocomplete URLs.
++ Add another search engine
+Add another search engine
++ Add custom URL
+Add custom URL
+Add custom URL
+Additional source code for %1$s is available under various other free and open source licenses.
+Add search engine
+Add search engine
+Add search engine
+Add shortcuts to your home screen
+Add to Home screen
+Add to Home screen
+An installed search engine is already using that name.
+A quick fix when
+Authentication required
+Autocomplete
+Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device.
+Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications.
+Automatic private browsing.
+Back
+Block 3rd-party cookies only
+Block ad trackers
+Block analytic trackers
+Block cookies
+Block images
+Block Images
+Block JavaScript
+Block other content trackers
+Block social trackers
+Block trackers
+Block Web fonts
+Browse like no one’s watching
+Browse like no one’s watching.
+Cancel
+Cancel
+Cancel
+Check that search string matches Example format
+Check the search string and try again
+Clear
+Clear input
+Close tab
+Cookies and Site Data
+Copy image address
+Copy link address
+Custom URL
+Custom URLs
+Custom URLs
+Data Choices
+Data Collection and Use
+Default
+Default search
+Default URL List
+Dismiss
+Dismiss find in page
+Double-check the URL you entered.
+Download
+Downloaded files will not be deleted when you erase %1$s history.
+Download File
+Download Firefox
+Embedded on sites to track your visits and to display functionality like share buttons
+Enable to have %1$s autocomplete over 450 popular URLs in the address bar.
+Enabling may cause some pages to behave unexpectedly
+Enter search engine name
+Enter search string
+Erase
+Erase and Open
+Erase browsing history
+Erase browsing history
+Erase browsing history
+Erase browsing history
+Example: example.com
+Example: example.com/search/?q=%s
+Example: mozilla.org
+Exit Private Browsing?
+Expand
+Find an app that can open link
+Find in page
+Find in Page
+Find next result
+Find previous result
+Forward
+General
+GET STARTED
+Help
+Hide webpages when switching apps
+Insecure Connection
+Installed search engines
+Language
+Learn more
+Learn more
+Loading
+Make %1$s default browser
+Make default browser
+Make privacy a habit
+Manually add
+May break some videos and Web pages
+May result in missing icons or images
+More options
+Mozilla
+Mozilla strives to collect only what we need to provide and improve %1$s for everyone.
+Name to display
+Navigate back
+Navigate forward
+New custom URL added.
+New search engine added.
+Next
+No
+No app to handle link
+None of the apps on your device are able to open this link. Do you want to exit %1$s and open %2$s to find a suitable app?
+None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can.
+Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser.
+Off
+OK
+Ok, got it!
+OK, got it!
+OK, got it!
+On
+Oops
+Open
+Open
+Open
+Open in…
+Open in %1$s
+Open link in another app
+Open link in new tab
+Open link in selected tab
+Open tab
+Open with
+Open with…
+Open with %1$s
+%1$s puts you in control.
+Pages may load faster, but may also behave unexpectedly
+Password
+Password
+Paste and Go
+Paste or enter search string. If necessary, replace search term with: %s.
+Paste or enter URL
+Performance
+Powered by %1$s
+Power up your privacy
+Privacy
+Privacy Notice
+Privacy and Security
+Private browsing session
+Private Search
+Problem loading page
+Refresh
+Reload website
+Remove
+Remove
+Remove
+Remove custom URLs
+Remove search engines
+Report Site Issue
+Request desktop site
+Restore default search engines
+Return to previous app
+Return to your favorite sites in %1$s quickly. Just select "Add to Home screen" from the %1$s menu.
+Save
+Save
+Saved and shared images will not be deleted when you erase %1$s history.
+Save image
+Search
+Search engine name
+Search for %1$s
+Searching for something different? Choose another default search engine in Settings.
+Search or enter address
+Search Privately
+Search string to use
+Secure connection
+Secure Connection
+Secure connection failed
+Send anonymous usage data
+Send usage data
+Server not found
+Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps.
+Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps.
+Set default, autocomplete
+Settings
+Share
+Share…
+Share image
+Share link
+Share via
+Shortcut will open with Tracking Protection disabled
+Site Security
+Skip
+Some ads track site visits, even if you don’t click the ads
+Stealth
+Stop loading website
+Switching Apps
+System default
+Tabs open: %1$s
+Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times.
+Tap the magnifying glass icon above the keyboard to add this search engine.
+The address isn’t valid
+The address wasn’t understood
+The connection timed out
+The page isn’t redirecting properly
+This link will open in %2$s. Are you sure you want to exit %1$s?
+To be clear, sites and services you use can still know where you've been.
+To be clear, sites and service you use can still know where you've been.
+Trackers blocked
+Tracking, cookies, data choices
+Tracking Protection
+Try Again
+Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list
+
+
+
+
+
+
+Unable to connect
+URL already exists
+URL Autocomplete
+URL copied
+URL to add
+Used to collect, analyze and measure activities like tapping and scrolling
+Username
+Username
+Verified by: %1$s
+Web Content
+Website loaded
+We can’t load this page for some reason.
+What's New
+When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu.
+Yes
+You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found here.
+You can leave %1$s to open this link in %2$s.
+Your browsing history has been erased.
+Your Rights
+Your Rights
+Your search, your way
