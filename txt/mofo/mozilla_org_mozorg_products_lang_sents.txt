@@ -1,0 +1,25 @@
+Mozilla Products — Built by us, for the Web
+Built for the Web
+Our dedication to driving the Web forward and keeping it open to everyone extends through everything we do.
+Developers
+Desktop
+The free, non-profit browser for your desktop.
+The fast, smart, safe choice for Android browsing.
+OS
+An open operating system for mobile devices.
+A new standard to recognize and verify learning.
+A creation and distribution platform for apps.
+A better way to sign in to websites.
+Safe, fast and easy email.
+Make something amazing with the Web.
+Our community-driven innovation accelerator.
+New ways to explore, experiment and innovate.
+A bug tracking system to help manage software development.
+Inspect, debug, analyze and more inside your browser.
+The layout engine that drives Firefox.
+An environment for XUL-based applications.
+Firefox APIs
+The foundations for building a Firefox OS app.
+Mozilla Developer Network
+All Mozilla-based Products
+All Developer Tools

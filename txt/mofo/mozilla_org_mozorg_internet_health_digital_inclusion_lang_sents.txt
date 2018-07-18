@@ -1,0 +1,60 @@
+Digital Inclusion: Vital to Internet Health
+Digital inclusion means promoting diversity, practicing respect, and supporting universal access online.
+A Healthy Internet is Inclusive to All
+The more voices, perspective, languages, and people contributing to the Web, the richer the experience for everyone. But the whole Internet is not yet accessible, welcoming, and safe for all. Together, we have the power to shape the Web, and our world along with it.
+A healthy Internet is open to you.
+Here are three areas where we can make a difference.
+Promote Diversity
+Practice Respect
+Support Universal Access
+Digital Inclusion means promoting diversity
+For the Internet to fulfill its greatest promise, it must reflect the diversity and experience of all people, everywhere.
+As inclusive as the Web can seem, it’s not yet an equal playing field. More than half the world is still without it; emerging economies and marginalized communities are often the last to gain access. Far fewer women are using the Internet than men. And without diversity among its creators, the Web itself will reflect unconscious biases, while personalizing algorithms can reinforce our own.
+In nine developing countries, women are still nearly 50% less likely to access the Internet than men.
+Source: World Wide Web Foundation, 2015
+50%
+How you can promote diversity
+Create web content
+Create your own Web content – like videos, blog posts, GIFs – in your language, local to your area.
+Build resources
+Support a resource like Wikipedia that drastically lowers the barriers to knowledge – or better yet, help build it. Wikipedia needs more, and more diverse, contributors.
+How Mozilla is promoting diversity
+Advancing accessibility
+Advancing web accessibility standards, and making Firefox inclusive through efforts like our Accessibility team.
+Building digital skills
+Partnering with UN Women to help women in Africa and across the globe build key digital skills.
+Digital Inclusion means practicing respect
+We should all have the ability to participate fully on the Internet, without threat to our reputations, our confidence, or our safety.
+We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
+73% of Internet users have seen someone harassed online and 40% have personally experienced it.
+Source: Pew Research, 2014
+73%
+How you can practice respect
+Report bullying
+If you see cyber violence and bullying online, record it and report it.
+Talk about respect
+Talk to your kids about cyberbullying, and encourage their teachers to do the same.
+How Mozilla is practicing respect
+Supporting tools for safety
+Supporting the Coral Project, which works to improve how journalists and communities engage on news websites, including tools like Talk, that aims to create smarter, safer comments sections.
+Empowering individuals
+Creating open curricula that empowers people to create safe spaces online, like the Teaching Kit: Combating Cyber Violence Against Women and Girls.
+Digital Inclusion means supporting universal access to the whole Internet
+We should all have affordable, high-quality, unrestricted access to the whole Web, so the whole world can benefit.
+To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
+In 2016, there were 51 intentional Internet shutdowns in 18 countries.
+Source: AccessNow, 2016
+51
+How you can support universal access
+Donate your tech
+Donate your old computers, laptops, and phones to non-profits that refurbish and redistribute them to underserved communities.
+Donate your old computers, laptops, and phones to non-profits like Reconnect, Students Recycling Used Technology, or Interconnection, who refurbish and redistribute them to underserved communities.
+Advocate for openness
+Tell your representatives that open and affordable access to the Internet should be a policy priority.
+How Mozilla is supporting universal access
+Advocating for neutrality
+Championing net neutrality, so that everyone has access to the same Internet.
+Connecting the unconnected
+Sponsoring the Equal Rating Innovation Challenge to find novel solutions for connecting the unconnected to the full, open Internet.
+Hungry for more?
+Read on about Digital Inclusion in our Internet Health Report.

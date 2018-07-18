@@ -1,0 +1,56 @@
+Open Innovation: Vital to Internet Health
+Open Innovation means innovating collectively through shared ideas and open source code.
+A healthy Internet is open for innovation
+The Internet was built on the promise that any one of us might create the next big thing. But in order to keep creating, imagining, and reinventing our future online, the building blocks of the Web must be open to all. And together, we need to make sure the policies and laws that govern those building blocks are fair and functional.
+A healthy Internet is created by you.
+Here are three areas where we can make a difference.
+Support Open Source
+Engage in Copyright Reform
+Influence Patent Policy
+Open Source: Keeping the building blocks of the Web open for creativity
+Open source should continue to be the heart of the Internet, so we can all see, verify, and contribute to its future.
+Open source software – technology built with code that is open for view, use, and modification – is the engine that powers a huge amount of the Internet, from servers to operating systems to the bots that fetch your search results. It’s the infrastructure that makes the Web a truly public resource: transparent, trustworthy, and collaborative, so that anyone with an idea can contribute. But much like our IRL infrastructure, we have to commit the attention and resources to maintain it.
+GitHub, the world’s largest open source community, includes 19 million developers, 100,000 teams, and 52 million repositories for established and developing technologies.
+Source: GitHub
+52M
+How you can support open source
+Contribute to a project
+Contribute to an existing open source project. Become a Mozillian! Or use OpenHatch to match your skillset to a project.
+Create something new
+Not sure where to start? Try our Open Innovation Toolkit.
+How Mozilla is supporting open source
+Contributing to the ecosystem
+Contributing directly to the open source ecosystem through our products, build systems, and back end systems, and fostering community through the Mozilla Developer Network.
+Offering support
+Establishing MOSS, the Mozilla Open Source Support program, to give back to the movement we were born from.
+Copyright: Reforming laws for our digital reality
+We should all be able to share, reuse and reinterpret the creativity that inspires us on the Internet.
+Intellectual Property (IP) rights were designed as a practical solution to advance creativity in all its forms: arts, science, business, and technology. In order for IP to continue sowing seeds for the future of the Web, our laws need to support the speed and spirit of collaboration that defines our digital world.
+There are now an estimated 1 billion Creative Commons-licensed works online that encourage reuse, including texts, photos, and music.
+Source: Creative Commons, 2015
+1B
+How you can engage in copyright reform
+Keep the pressure on
+Protests against SOPA/PIPA in the US and ACTA in Europe led to the shelving of laws that may have hindered open innovation. EU citizens: the Digital Single Market could produce good or bad new copyright law. Join us and others in the fight!
+Get creative
+Keep making memes, posting links, and getting creative on the Web with respectful attribution.
+How Mozilla is engaged in copyright reform
+Standing up for reform
+Making the case for copyright reform in Europe.
+Advocating for protections
+Advocating for clear protections for Internet users, creators, and intermediaries with the U.S. Copyright Office.
+Patents: Building a system that encourages innovation
+Our patent system should work with and for open innovation, not against it.
+Patents were designed to create incentive for innovation. But the patent system and software development don’t always get along so well. Software patents are often written so broadly that they’re open to misinterpretation, and exclusive rights can far outlive the shelf life of the software itself. All of which creates obstacles and uncertainty for innovators, and leaves the door open for patent trolls and endless litigation.
+High Tech patents are the subject of more disputes than all other patents combined.
+Source: Unified Patents, 2016
+How you can influence patent policy
+Use open source software
+Look for open source alternatives to the products you use every day. You can find options here and here.
+How Mozilla is influencing patent policy
+Advocating for change
+Advocating for change in the US Supreme Court.
+Keeping our patents open
+Offering everyone a royalty-free non-exclusive license to all of Mozilla’s patents under the Mozilla Open Software Patent License Agreement.
+Hungry for more?
+Read on about Open Innovation in our Internet Health Report.

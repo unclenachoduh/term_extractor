@@ -1,0 +1,13 @@
+More browser features, fewer plugin updates | Firefox
+Browse with fewer interruptions. Features from NPAPI plugins are now automatically supported in Firefox. Download the latest Firefox now!
+Good news - you’re using the latest version of Firefox!
+Even better news - Firefox now supports features that used to require additional plugins.
+Need help? Visit Mozilla Support
+Better features, fewer plugin updates
+Firefox has been expanding to support features that used to require extra plugins. Now, they’re kept up-to-date automatically and managed through blocklisting for added security. So you can stay current with just one Firefox update.
+Download the latest version:
+Update Firefox
+Tired of updating plugins? Firefox has you covered.
+As the web moves forward, so do we. Firefox now supports more features that used to require plugins, so you can browse with fewer crashes and interruptions. Plus, our blocklist system protects you between updates.
+Hungry for more?
+Get the latest andamp; greatest from Firefox delivered straight to your inbox.
