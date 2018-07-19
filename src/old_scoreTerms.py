@@ -121,37 +121,35 @@ def termGetter(foldername, output):
 
 	scores = []
 
-	# stats = []
+	stats = []
 
 	outCount = 0
 	for t in terms:
 		outTmp = terms_d[t]
 
-		tf = outTmp[0] / document_length
-		df = uniqueID(outTmp[1])
-		idf = len(os.listdir(foldername)) / (1+ math.log10(df))
-		# tfidf = tf * idf
-		tfdf = tf * df
-		tfdfidf = tfdf * idf
+		docFreq = uniqueID(outTmp[1])
 
-		# stats.append(tfidf)
+		tf = outTmp[0] / document_length
+		idf = len(os.listdir(foldername)) / (1+ math.log10(docFreq))
+		tfidf = tf * idf
+
+		stats.append(tfidf)
 
 		# wout.write(t + "\t" + str(outTmp[0]) + "\t" + str(docFreq) + "\t" + str(tfidf) + "\n")
 
-		# scores.append([t, tfidf])
-		scores.append([t, tfdfidf])
+		scores.append([t, tfidf])
 
 	scores = sorted(scores, key=itemgetter(1), reverse=True)
 
 
 # Need a good way to choose how many terms to return
-	# sd = statistics.stdev(stats)
-	# maximum = max(stats)
-	# avg = statistics.mean(stats)
+	sd = statistics.stdev(stats)
+	maximum = max(stats)
+	avg = statistics.mean(stats)
 	# limit = float(mult)
 	# margin = avg+(limit*sd)
 	# margin = (float(sys.argv[3]) / 100) * len(scores)
-	margin = 150
+	margin = 100
 	# print("MAX: ", maximum)
 	# print("SD:  ", sd)
 	# print("AVG: ", avg)

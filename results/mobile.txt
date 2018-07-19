@@ -1,26 +1,82 @@
-search engine	0.030852522445976034
+search engine	0.0925575673379281
+private browsing	0.03966752885911204
+tracking protection	0.03437852501123043
 reading list	0.026041666666666668
-private browsing	0.013222509619704014
+browsing history	0.021156015391526423
+add search	0.01851151346758562
+default search	0.01851151346758562
+custom url	0.018014573129068144
+add search engine	0.015867011543644817
+usage data	0.015867011543644817
+search string	0.01401133465594189
+online trackers	0.013222509619704014
+content trackers	0.013222509619704014
+enter search	0.013222509619704014
+block web	0.013222509619704014
 private tab	0.013020833333333334
-tracking protection	0.011459508337076813
+ad trackers	0.010578007695763211
+block online	0.010578007695763211
+web pages	0.010578007695763211
+social trackers	0.010578007695763211
+upload photos	0.010008096182815635
+add custom	0.010008096182815635
+add custom url	0.010008096182815635
+custom urls	0.010008096182815635
+search engines	0.010008096182815635
 add to reading list	0.009114583333333334
 private data	0.009114583333333334
 night mode	0.009114583333333334
 firefox account	0.009114583333333334
-custom url	0.009007286564534072
+default search engine	0.008006476946252509
+request desktop	0.008006476946252509
+desktop site	0.008006476946252509
+request desktop site	0.008006476946252509
+secure connection	0.008006476946252509
+add another search engine	0.008006476946252509
+analytic trackers	0.007933505771822408
+block online trackers	0.007933505771822408
+copy image	0.007933505771822408
+copy link	0.007933505771822408
+mozilla strives	0.007933505771822408
+save image	0.007933505771822408
+enter address	0.007933505771822408
+search or enter address	0.007933505771822408
+send anonymous	0.007933505771822408
+anonymous usage	0.007933505771822408
+send anonymous usage	0.007933505771822408
+anonymous usage data	0.007933505771822408
+send anonymous usage data	0.007933505771822408
+send usage	0.007933505771822408
+send usage data	0.007933505771822408
+share link	0.007933505771822408
+trackers blocked	0.007933505771822408
 top sites	0.0078125
-browsing history	0.007052005130508807
-search string	0.007005667327970945
 firefox sync	0.006510416666666667
 qr code	0.006510416666666667
 open tabs	0.006510416666666667
 clear private	0.006510416666666667
 clear private data	0.006510416666666667
 browsing mode	0.006510416666666667
-add search	0.006170504489195206
-default search	0.006170504489195206
-add search engine	0.005289003847881606
-usage data	0.005289003847881606
+selected tab	0.006004857709689381
+close tab	0.006004857709689381
+downloaded files	0.006004857709689381
+open settings	0.006004857709689381
+save and upload photos	0.006004857709689381
+lets you save and upload photos	0.006004857709689381
+tabs open	0.006004857709689381
+installed search	0.006004857709689381
+automatically block	0.006004857709689381
+visited pages	0.006004857709689381
+automatically block online	0.006004857709689381
+block trackers	0.006004857709689381
+web fonts	0.006004857709689381
+block web fonts	0.006004857709689381
+url list	0.006004857709689381
+behave unexpectedly	0.006004857709689381
+enter search string	0.006004857709689381
+videos and web pages	0.006004857709689381
+break some videos and web pages	0.006004857709689381
+browsing session	0.006004857709689381
 page to reading list	0.005208333333333333
 browsing data	0.005208333333333333
 reader view	0.005208333333333333
@@ -33,68 +89,62 @@ erase browsing	0.005208333333333333
 erase browsing history	0.005208333333333333
 open link	0.005208333333333333
 default browser	0.005208333333333333
-upload photos	0.005004048091407818
-add custom	0.005004048091407818
-add custom url	0.005004048091407818
-custom urls	0.005004048091407818
-search engines	0.005004048091407818
-online trackers	0.004407503206568005
-content trackers	0.004407503206568005
-enter search	0.004407503206568005
-block web	0.004407503206568005
-default search engine	0.004003238473126254
-request desktop	0.004003238473126254
-desktop site	0.004003238473126254
-request desktop site	0.004003238473126254
-secure connection	0.004003238473126254
-add another search engine	0.004003238473126254
-copy address	0.00390625
-add page	0.00390625
-add page to reading	0.00390625
-add page to reading list	0.00390625
-not add page to reading list	0.00390625
-text size	0.00390625
-copied link	0.00390625
-hide images	0.00390625
-private mode	0.00390625
-private browsing mode	0.00390625
-request mobile	0.00390625
-mobile site	0.00390625
-request mobile site	0.00390625
-show images	0.00390625
-show tabs	0.00390625
-touch id	0.00390625
-devices connected	0.00390625
-devices connected to this firefox account	0.00390625
-open source	0.00390625
-magnifying glass	0.00390625
-add to home screen	0.00390625
-ad trackers	0.0035260025652544035
-block online	0.0035260025652544035
-web pages	0.0035260025652544035
-social trackers	0.0035260025652544035
-selected tab	0.0030024288548446904
-close tab	0.0030024288548446904
-downloaded files	0.0030024288548446904
-open settings	0.0030024288548446904
-save and upload photos	0.0030024288548446904
-lets you save and upload photos	0.0030024288548446904
-tabs open	0.0030024288548446904
-installed search	0.0030024288548446904
-automatically block	0.0030024288548446904
-visited pages	0.0030024288548446904
-automatically block online	0.0030024288548446904
-block trackers	0.0030024288548446904
-web fonts	0.0030024288548446904
-block web fonts	0.0030024288548446904
-url list	0.0030024288548446904
-behave unexpectedly	0.0030024288548446904
-enter search string	0.0030024288548446904
-videos and web pages	0.0030024288548446904
-break some videos and web pages	0.0030024288548446904
-browsing session	0.0030024288548446904
-analytic trackers	0.002644501923940803
-block online trackers	0.002644501923940803
-copy image	0.002644501923940803
-copy link	0.002644501923940803
-mozilla strives	0.002644501923940803
+authentication required	0.004003238473126254
+open in…	0.004003238473126254
+choose another default search	0.004003238473126254
+another default search engine	0.004003238473126254
+choose another default search engine	0.004003238473126254
+? choose another default search engine	0.004003238473126254
+select location	0.004003238473126254
+location bar	0.004003238473126254
+select location bar	0.004003238473126254
+camera roll	0.004003238473126254
+upload videos	0.004003238473126254
+url copied	0.004003238473126254
+web content	0.004003238473126254
+manage custom	0.004003238473126254
+custom autocomplete	0.004003238473126254
+autocomplete urls	0.004003238473126254
+manage custom autocomplete	0.004003238473126254
+custom autocomplete urls	0.004003238473126254
+add and manage custom	0.004003238473126254
+and manage custom autocomplete	0.004003238473126254
+manage custom autocomplete urls	0.004003238473126254
+add and manage custom autocomplete	0.004003238473126254
+and manage custom autocomplete urls	0.004003238473126254
+add and manage custom autocomplete urls	0.004003238473126254
++ add custom url	0.004003238473126254
+erase visited	0.004003238473126254
+erase visited pages	0.004003238473126254
+automatically block online trackers	0.004003238473126254
+block online trackers while	0.004003238473126254
+tap to erase visited	0.004003238473126254
+to erase visited pages	0.004003238473126254
+erase visited pages ,	0.004003238473126254
+visited pages , searches	0.004003238473126254
+automatically block online trackers while	0.004003238473126254
+tap to erase visited pages	0.004003238473126254
+erase visited pages , searches	0.004003238473126254
+automatically block online trackers while you	0.004003238473126254
+block online trackers while you browse	0.004003238473126254
+then tap to erase visited pages	0.004003238473126254
+tap to erase visited pages ,	0.004003238473126254
+to erase visited pages , searches	0.004003238473126254
+erase visited pages , searches ,	0.004003238473126254
+visited pages , searches , cookies	0.004003238473126254
+automatically block online trackers while you browse	0.004003238473126254
+tap to erase visited pages , searches	0.004003238473126254
+erase visited pages , searches , cookies	0.004003238473126254
+automatically block online trackers while you browse .	0.004003238473126254
+browse . then tap to erase visited pages	0.004003238473126254
+then tap to erase visited pages , searches	0.004003238473126254
+tap to erase visited pages , searches ,	0.004003238473126254
+to erase visited pages , searches , cookies	0.004003238473126254
+erase visited pages , searches , cookies and	0.004003238473126254
+visited pages , searches , cookies and passwords	0.004003238473126254
+tap to erase visited pages , searches , cookies	0.004003238473126254
+erase visited pages , searches , cookies and passwords	0.004003238473126254
+automatically block online trackers while you browse . then tap	0.004003238473126254
+browse . then tap to erase visited pages , searches	0.004003238473126254
+then tap to erase visited pages , searches , cookies	0.004003238473126254
+tap to erase visited pages , searches , cookies and	0.004003238473126254
