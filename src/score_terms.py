@@ -151,7 +151,7 @@ def termGetter(foldername, output):
 	# limit = float(mult)
 	# margin = avg+(limit*sd)
 	# margin = (float(sys.argv[3]) / 100) * len(scores)
-	margin = 150
+	margin = 100
 	# print("MAX: ", maximum)
 	# print("SD:  ", sd)
 	# print("AVG: ", avg)
