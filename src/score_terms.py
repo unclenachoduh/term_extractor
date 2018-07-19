@@ -34,6 +34,9 @@ import ngrams
 # from stemming.porter2 import stem
 # stem(w)
 
+import statistics
+from statistics import mean
+
 def getStopWords():
 	stop_file = open("src/stop_words.txt").read().split("\n")
 
@@ -60,11 +63,9 @@ def uniqueID(docNames):
 
 	return len(uniqueDocs)
 
+# def termGetter(foldername, output, mult):
 def termGetter(foldername, output):
 	stop_words = getStopWords()
-
-	# ------------------
-	# My terminology stuff should go here
 
 	terms_d = {} # key = term , value = [tally , [docID]] # len of uniqueID([docID]) = doc freq
 
@@ -74,12 +75,9 @@ def termGetter(foldername, output):
 
 	for file in os.listdir(foldername):
 		filepath = os.path.join(foldername, file)
-	
-		# print(file)
 
 		text = open(filepath).read().lower().split("\n")
 
-		# print(text)
 		for line in text:
 			if line != "":
 
@@ -88,7 +86,6 @@ def termGetter(foldername, output):
 				words = []
 				for x in tokens:
 					for e in x:
-						# print(e)
 						check = False # make sure words count
 
 						not_garbage = 0
@@ -101,8 +98,7 @@ def termGetter(foldername, output):
 								garbage += 1
 
 						if not_garbage - 1 > garbage:
-							words.append("_".join(e))
-							# print("_".join(e))
+							words.append(" ".join(e))
 
 				unq = []
 				for w in words:
@@ -121,33 +117,11 @@ def termGetter(foldername, output):
 					if w not in unq:
 						unq.append(w)
 
-				# for u in unq:
-				# 	tmp = terms_d[u]
-				# 	tmp[1] += 1
-				# 	terms_d[u] = tmp
-
-		# # TODO
-		# # firefox_for
-		# # firefox_for_android
-		# # eliminate these dumb repetitions
-
-
-		# term_vals = []
-
-		# for t in terms:
-		# 	tcount = terms_d[t][0]
-		# 	dcount = terms_d[t][1]
-
-		# 	tf = tcount / document_length
-		# 	idf = len(text) / (1+ math.log10(dcount))
-		# 	tfidf = tf * idf
-		# 	# print("Term data:", len(terms), t, tcount, dcount, tf, idf, tfidf)
-
-		# 	term_vals.append([t, tfidf])
-
-	wout = open(output, "w+")
+	# wout = open("results/testing_output", "w+") # File that shows tf, df, and tfidf
 
 	scores = []
+
+	stats = []
 
 	outCount = 0
 	for t in terms:
@@ -159,47 +133,42 @@ def termGetter(foldername, output):
 		idf = len(os.listdir(foldername)) / (1+ math.log10(docFreq))
 		tfidf = tf * idf
 
-		# wout.write(t + "\t" + str(outTmp[0]) + "\t" + str(docFreq) + "\n")
+		stats.append(tfidf)
+
+		# wout.write(t + "\t" + str(outTmp[0]) + "\t" + str(docFreq) + "\t" + str(tfidf) + "\n")
 
 		scores.append([t, tfidf])
 
 	scores = sorted(scores, key=itemgetter(1), reverse=True)
 
+
+# Need a good way to choose how many terms to return
+	sd = statistics.stdev(stats)
+	maximum = max(stats)
+	avg = statistics.mean(stats)
+	# limit = float(mult)
+	# margin = avg+(limit*sd)
+	# margin = (float(sys.argv[3]) / 100) * len(scores)
+	margin = 100
+	# print("MAX: ", maximum)
+	# print("SD:  ", sd)
+	# print("AVG: ", avg)
+	# print("MRG: ", margin)
+
+	wout = open(output, "w+")
+	count = 0
 	for x in scores:
-		# if terms_d[x[0]][0] > min_count:
-		# 	graph.write(x[0] + "\t" + str(x[1]) + "\n")
-		# else:
-		# 	break
 
-		wout.write(x[0] + "\t" + str(x[1]) + "\n")
-
-
-
-
-
-
-	# #### Todo
-	# # Find a good way to manage the number of terms kept
-	# keep = int(len(terms) * 1 /10) # collect 10% of terms
-	# # keep = int(len(terms) * 3 /10) # collect 30% of terms
-	# # keep = len(terms) # collect all terms
-	# ####
-
-	# count = 1
-
-	# term_vals = sorted(term_vals, key=itemgetter(1), reverse=True)
-	# # for x in term_vals:
-	# # 	count += 1
-	# # 	if count < keep:
-	# # 		graph.write(x[0] + "\t" + str(x[1]) + "\n")
-	# # 	else:
-	# # 		break
-
-	# min_count = 6
-
+		score = x[1]
+		# if loss > prevLoss*.9 or count < 10:
+		# while score > margin:
+		if count < margin:
+			wout.write(x[0] + "\t" + str(score) + "\n")
+			count += 1
+		else:
+			# print("STOP:", x[0], str(score))
+			break
 
 if __name__ == '__main__':
-	# input = sys.argv[1]
-	# if out[-1] != "/":
-	# 	out += "/"
+	# termGetter(sys.argv[1], sys.argv[2], sys.argv[3])
 	termGetter(sys.argv[1], sys.argv[2])
